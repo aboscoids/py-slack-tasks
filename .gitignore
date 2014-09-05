@@ -1,0 +1,4 @@
+*.pyc
+config.yaml
+__init__.py
+*.tsk
